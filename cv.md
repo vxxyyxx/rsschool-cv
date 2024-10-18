@@ -14,7 +14,7 @@ My strongest traits include high responsibility, attention to detail, and excell
 
 Over the past year, I developed a strong interest in programming. I initially explored Python, but after careful consideration, I decided to focus on becoming a Frontend Developer. I find the learning process fascinating and am excited to enhance my Web Development skills day by day.
 
----
+
 
 ## Skills
 - HTML5
@@ -23,7 +23,7 @@ Over the past year, I developed a strong interest in programming. I initially ex
 - VS Code
 - Python Basics
 
-----
+
 
 ## Education
 - Belarusian State Economic University, Faculty of Intercultural Business Communication (2013-2018)
@@ -33,7 +33,6 @@ Over the past year, I developed a strong interest in programming. I initially ex
 - RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
 
 
----
 
 ## Languages
 - English - C2 (according to to the online test at [EFset](www.efset.org))
