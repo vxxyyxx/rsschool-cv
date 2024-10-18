@@ -22,6 +22,7 @@ Over the past year, I developed a strong interest in programming. I initially ex
 - Git, Github
 - VS Code
 - Python Basics
+
 ----
 
 ## Education
@@ -30,6 +31,8 @@ Over the past year, I developed a strong interest in programming. I initially ex
 - HTML and CSS (Codecademy)
 - JavaScript Manual on learnjavascript.ru (in progress)
 - RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+
+
 ---
 
 ## Languages
