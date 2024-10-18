@@ -1,13 +1,13 @@
 # Veronica Bystritskaya
 ## Junior Frontend Developer
 
-## Contact Information
+### Contact Information
 Phone: +375333465467   
 E-mail: veronicabystritskaya@gmail.com  
 Telegram: @vxxyyxx  
 [LinkedIn](https://www.linkedin.com/in/veronica-bystritskaya-2b03a274/)
 
-## Briefly about myself
+### Briefly about myself
 I began my career as a specialist in International Trade, advancing to the position of Head of the Foreign Marketing Department at a Ferro-Concrete Plant, a role I currently hold. 
 
 My strongest traits include high responsibility, attention to detail, and excellent communication skills. In my role, I am often involved in resolving conflicts, creating and executing sales plans, and managing my team effectively.
